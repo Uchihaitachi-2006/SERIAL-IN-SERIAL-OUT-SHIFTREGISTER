@@ -69,5 +69,4 @@ endmodule
 
 **RESULTS**
 
-
 the implementation of serial in serial out shift register using quartus || and verilog was executed succesfully.
